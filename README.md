@@ -25,6 +25,6 @@ Technologies Used:
 
 2. Jupyter Notebook
 
-3.Pandas, NumPy, Matplotlib, Seaborn
+3. Pandas, NumPy, Matplotlib, Seaborn
 
-4.Scikit-learn
+4. Scikit-learn
